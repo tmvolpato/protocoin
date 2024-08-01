@@ -12,6 +12,8 @@ Este é um contrato inteligente desenvolvido em Solidity para criar um token ERC
 ## Tecnologias Utilizadas
 
 - **Solidity**: Linguagem de programação utilizada para escrever contratos inteligentes na Ethereum.
+- **Node.js**: Ambiente de execução para JavaScript no servidor.
+- **TypeScript**: Superset de JavaScript que adiciona tipagem estática opcional à linguagem.
 - **Hardhat**: Framework para desenvolvimento, teste e implantação de contratos inteligentes.
 
 ## Visualize
